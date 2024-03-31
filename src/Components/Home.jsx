@@ -4,8 +4,8 @@ import React from 'react';
 const Home = () => {
   return (
     <div>
-      <h2>Welcome to Home Page</h2>
-      <p>This is the home page content.</p>
+      <h2>Welcome!</h2>
+      <p>Connect to your helmet via bluetooth.</p>
     </div>
   );
 };
